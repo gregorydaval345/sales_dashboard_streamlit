@@ -10,5 +10,5 @@ cd sales_dashboard_streamlit
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
-streamlit run simple_app.py
+streamlit run app.py
 ```
